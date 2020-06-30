@@ -1,0 +1,1 @@
+TODO: Insert path to folder with image files (water signal, fat signal and fat fraction images) in .vtk format
