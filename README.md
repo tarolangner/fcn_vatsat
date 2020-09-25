@@ -4,7 +4,7 @@ This repository contains a PyTorch implementation of the segmentation method des
 [Fully convolutional networks for automated segmentation of abdominal adipose tissue depots in multicenter water–fat MRI](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27550) (or https://arxiv.org/abs/1807.03122v2)
 
 It contains code for applying the U-Net and V-Net, which can be used to segment volumes in .vtk format using PyTorch.  
-**Disclaimer:** *The trained network snapshots are no longer online, contact me to get them at the E-Mail provided below*
+**Trained Networks:** You can [download the PyTorch network snapshots here](https://uppsala.box.com/s/s5drp9aluz87yvvtfjg6dmvosz4mrmm4).
 
 Please note that we can not publically distribute the medical data used in the paper. If you wish to get access to reproduce the results, please contact us via the mail address given below. Unfortunately it may take weeks or months until access can be granted by the owners of the studies.
 
