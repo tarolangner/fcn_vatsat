@@ -1,4 +1,5 @@
 # Fully Convolutional Networks for Automated Segmentation of Abdominal Adipose Tissue Depots in Multicenter Water-Fat MRI
+**Note**: _This is a re-upload of the 2018 repository of the same name_
 
 This repository contains a PyTorch implementation of the segmentation method described in:  
 [Fully convolutional networks for automated segmentation of abdominal adipose tissue depots in multicenter water–fat MRI](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27550) (or https://arxiv.org/abs/1807.03122v2)
